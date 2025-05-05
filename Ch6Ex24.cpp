@@ -1,5 +1,5 @@
 /*
-    Program File Name: Ch5Ex23.cpp
+    Program File Name: Ch6Ex24.cpp
     Programmer: Gabriel Inocentes
     Date: May 5, 2025
     Requirements: Make a program that simulates the game "Rock Paper Scissors"
